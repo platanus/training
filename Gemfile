@@ -52,6 +52,7 @@ group :development, :test do
   gem 'guard-rspec', require: false
   gem 'pry-byebug'
   gem 'pry-rails'
+  gem 'railroady'
   gem 'rspec-nc', require: false
   gem 'rspec-rails'
   gem 'rswag-specs'
